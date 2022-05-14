@@ -1,5 +1,8 @@
 # dicionario_est_dados
 Essa aplicação foi desenvolvida como projeto final da disciplina 'INF01126 - Estruturas De Dados I' ministrada pela Universidade Federal do Rio Grande do Sul, semetre 2021/1.
+Uma descrição completa da mesma pode ser encontrada em:
+
+https://www.youtube.com/watch?v=fdenZ0zXhGQ
 
 ## OBSERVAÇÕES SOBRE A IMPLEMENTAÇÃO DO ALGORITMO
 
